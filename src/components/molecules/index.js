@@ -1,4 +1,3 @@
-/* eslint-disable import/extensions */
 export * from './PickupSnipets';
 
 export { SignUpButton } from './SignUpButton';
